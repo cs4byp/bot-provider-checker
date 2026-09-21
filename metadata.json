@@ -1,0 +1,8 @@
+{
+  "name": "Bot Provider Checker Fixer",
+  "description": "Analisis penyebab error Evolution & WIN568 serta script Python Playwright Telegram bot yang telah dioptimasi dengan auto-close, deteksi pesan error mendalam, dan ikon status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
